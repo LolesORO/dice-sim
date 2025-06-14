@@ -1,0 +1,54 @@
+<<<<<<< HEAD
+# Visual Studio
+=======
+# Visual Studio files
+>>>>>>> origin/main
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+<<<<<<< HEAD
+
+# Build
+x64/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.obj
+*.log
+
+# Qt
+*.moc
+*.qrc.cpp
+*.ui.h
+=======
+*.cache
+
+# Build outputs
+x64/
+Debug/
+Release/
+*.obj
+*.o
+*.lib
+*.dll
+*.exe
+*.pdb
+*.log
+
+# Qt build files
+*.moc
+*.qrc.cpp
+*.ui.h
+*.autosave
+
+# CMake
+build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+>>>>>>> origin/main
